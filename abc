@@ -1,5 +1,4 @@
 #!/bin/bash
 -p "Enter first number: " num10345
 read -p "Enter second number: " num245
-sume=$((num1 + num2))
-echo "Sum: $sum"
+
